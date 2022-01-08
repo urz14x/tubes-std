@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1641622330 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\main.cpp
+	<iostream>
+	"parent.h"
+	"child.h"
+	"menu.h"
+	"relasi_n_n.h"
+
+1641451339 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\aplikasi.cpp
+	"aplikasi.h"
+	<conio.h>
+
+1641451111 d:\kuliah\season3\struktur data\tubes mll\tubesku\aplikasi.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1641622353 d:\kuliah\season3\struktur data\tubes mll\tubesku\parent.h
+	<iostream>
+
+1641610094 d:\kuliah\season3\struktur data\tubes mll\tubesku\child.h
+	"parent.h"
+	<iostream>
+
+1641476088 d:\kuliah\season3\struktur data\tubes mll\tubesku\relasi.h
+	"parent.h"
+	"child.h"
+
+1641622469 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\parent.cpp
+	"parent.h"
+
+1641620449 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\child.cpp
+	"child.h"
+
+1641476412 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\relasi.cpp
+	"relasi.h"
+
+1641616820 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\relasi_n_n.cpp
+	"relasi_n_n.h"
+
+1641612107 d:\kuliah\season3\struktur data\tubes mll\tubesku\relasi_n_n.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1641610866 source:d:\kuliah\season3\struktur data\tubes mll\tubesku\menu.cpp
+	<iostream>
+
+1641554006 d:\kuliah\season3\struktur data\tubes mll\tubesku\menu.h
+
